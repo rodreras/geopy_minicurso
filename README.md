@@ -11,7 +11,7 @@ ______
 
 ## Descrição
 
-Atualmente, saber programar está deixando de ser um diferencial e começando a ser uma ferramenta super demanda no mercado profissional. Porém, muitas vezes, aprender Python sem uma abordagem geológica nos distancia e cria barreiras. Como consequência, faz pensar que é super complexo e difícil aprender a programar em Python aplicado à Geologia.
+Atualmente, saber programar está deixando de ser um diferencial e começando a ser uma ferramenta super demandada no mercado profissional. Porém, muitas vezes, aprender Python sem uma abordagem geológica nos distancia e cria barreiras. Como consequência, faz pensar que é super complexo e difícil de aprender Python aplicado à Geologia.
 
 Tendo essa dor da comunidade geológica e geocientífica em mente, somada à minha trajetória, trago aqui um conteúdo que tornará mais tranquilo sua navegação nos mares da programação.
 
@@ -24,7 +24,7 @@ Basicamente, são dois módulos:
       - Mplstereo
       - Entre outras
 
-Com exemplos práticos e da área, você verá os principais conceitos com práticas rápidas e desafiadoras, para que então, consiga futuramente fazer seus próprios projetos.
+Com exemplos práticos, você verá os principais conceitos com execícios rápidas e desafiadoras, para que então, consiga futuramente fazer seus próprios projetos.
 
 ## Objetivos
 
@@ -54,7 +54,7 @@ O objetivo deste curso é apresentar a base necessária com conteúdo palpável 
 
 O curso foi construído para que você execute tudo no Google Collab, porém, caso tenha alguma experiência em criar ambientes Python em sua máquina, não há problemas.
 
-Para usar no Google Collab, baixa o repositório, e faça upload para seu Google Drive. Depois, clique nos arquivos `.ipynb` que então será redirecionado para o Google Collab.
+Para usar no Google Collab, baixe o repositório, e faça upload para seu Google Drive. Depois, clique nos arquivos `.ipynb` que então será redirecionado para o Google Collab.
 
 ## Referências
 
