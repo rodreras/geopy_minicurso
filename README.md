@@ -6,7 +6,6 @@
 - Desenvolvido por [Rodrigo Brust Santos](https://www.linkedin.com/in/rodrigobrust/)
     - Contato: rodrigobrusts@gmail.com
     - Versão 0.1 - Novembro de 2022
-
 ______
 
 ## Descrição
@@ -32,7 +31,7 @@ O objetivo deste curso é apresentar a base necessária com conteúdo palpável 
 
 ## Conteúdo
 
-1. Módulo Básico
+1. [Módulo Básico](https://github.com/rodreras/geopy_minicurso/tree/main/notebooks/2_bibliotecas)
 
     1.1 Fundamentos de Python
 
@@ -49,6 +48,24 @@ O objetivo deste curso é apresentar a base necessária com conteúdo palpável 
     2.3 Pyrolite
 
     2.4 Sondaje3D
+    
+
+<div align="center"> <h2 align="center"> Apresentado na XXX Semana Acadêmica de Geologia (SEGEO) da UFRuralRJ </h2> </div>
+
+<div align="center">
+
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/53950449/201234377-7f18b950-6c1b-4e7a-9960-77d1f953b925.png">
+</p>
+
+
+|Data| Acesso|
+|:----:|:-------:|
+|05/11/2022| [Vídeo Aula Módulo Básico](https://www.youtube.com/watch?v=pMwEm_fXy_U)|
+|12/11/2022| Em breve|
+
+</div>
+
 
 ## Como fazer o curso?
 
