@@ -5,7 +5,7 @@
 
 - Desenvolvido por [Rodrigo Brust Santos](https://www.linkedin.com/in/rodrigobrust/)
     - Contato: rodrigobrusts@gmail.com
-    - Versão 0.1 - Novembro de 2022
+    - Versão 0.2 - Novembro de 2022
 ______
 
 ## Descrição
@@ -39,15 +39,17 @@ O objetivo deste curso é apresentar a base necessária com conteúdo palpável 
 
     1.3 Matplotlib
 
-2. Módulo Aplicado
+2. [Módulo Aplicado: Fluxo de Trabalho Geológico](https://github.com/rodreras/geopy_minicurso/tree/main/notebooks/3_geologic_drillhole_workflow)
 
-    2.1 Geopandas e Folium
+    2.1 Geopandas 
 
     2.2 Mplstereo
 
     2.3 Pyrolite
+    
+    2.4 Striplog
 
-    2.4 Sondaje3D
+    2.5 Sondaje3D - Em Breve
     
 
 <div align="center"> <h2 align="center"> Apresentado na XXX Semana Acadêmica de Geologia (SEGEO) da UFRuralRJ </h2> </div>
@@ -62,7 +64,7 @@ O objetivo deste curso é apresentar a base necessária com conteúdo palpável 
 |Data| Acesso|
 |:----:|:-------:|
 |05/11/2022| [Vídeo Aula Módulo Básico](https://www.youtube.com/watch?v=pMwEm_fXy_U)|
-|12/11/2022| Em breve|
+|12/11/2022| [Vídeo Aula Workflow Geológgico](https://www.youtube.com/watch?v=b6s7xCIyapI)|
 
 </div>
 
@@ -72,6 +74,10 @@ O objetivo deste curso é apresentar a base necessária com conteúdo palpável 
 O curso foi construído para que você execute tudo no Google Collab, porém, caso tenha alguma experiência em criar ambientes Python em sua máquina, não há problemas.
 
 Para usar no Google Collab, baixe o repositório, e faça upload para seu Google Drive. Depois, clique nos arquivos `.ipynb` que então será redirecionado para o Google Collab.
+
+As células estão comentadas. Tem explicações sobre os tipos de dados, o que deve ser feito, tudo com exemplos e também exercícios - que vão do nível fácil até o difícil.
+
+Faça no seu ritmo e quantas vezes quiser! Pesquise sobre as bibliotecas e se quiser, pode acompanhar assistindo os vídeos da XXX SEGEO, disponíveis acima.
 
 ## Referências
 
