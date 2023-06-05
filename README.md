@@ -1,11 +1,13 @@
 # Introdução e Aplicações de Python para Geologia
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rodreras/geopy_minicurso/HEAD)
+
 ![Pygeo](https://user-images.githubusercontent.com/53950449/200443451-67f3f5c4-89c4-4a1e-a378-b5c2f69592e4.jpg)
 
 
 - Desenvolvido por [Rodrigo Brust Santos](https://www.linkedin.com/in/rodrigobrust/)
     - Contato: rodrigobrusts@gmail.com
-    - Versão 0.2 - Novembro de 2022
+    - Versão 1.0 - Junho de 2023
 ______
 
 ## Descrição
@@ -14,7 +16,7 @@ Atualmente, saber programar está deixando de ser um diferencial e começando a 
 
 Tendo essa dor da comunidade geológica e geocientífica em mente, somada à minha trajetória, trago aqui um conteúdo que tornará mais tranquilo sua navegação nos mares da programação.
 
-Basicamente, são dois módulos: 
+São dois módulos: 
 
   - Bases do Python e Bibliotecas principais
   - Aplicações de Bibliotecas Específicas
@@ -22,13 +24,16 @@ Basicamente, são dois módulos:
       - Pyrolite
       - Mplstereo
       - Entre outras
+- Primeiros passos com Sensoriamento Remoto em Python
 
 Com exemplos práticos, você verá os principais conceitos com execícios rápidas e desafiadoras, para que então, consiga futuramente fazer seus próprios projetos.
 
+___
 ## Objetivos
 
 O objetivo deste curso é apresentar a base necessária com conteúdo palpável e lúdico para estudantes e profissionais das geociências em geral, especialmente geólogos, para solucionar problemas geológicos. 
 
+___
 ## Conteúdo
 
 1. [Módulo Básico](https://github.com/rodreras/geopy_minicurso/tree/main/notebooks/2_bibliotecas)
@@ -50,8 +55,20 @@ O objetivo deste curso é apresentar a base necessária com conteúdo palpável 
     2.4 Striplog
 
     2.5 Sondaje3D - Em Breve
-    
 
+3. [Módulo Espacial: Primeiros Passos com Sensoriamento Remoto]()
+
+    3.1 Rasterio
+
+    3.2 Earthpy
+
+    3.3 Como baixar imagens
+
+    3.4 Como fazer uma composição colorida
+
+    3.5 Como exportar o raster
+    
+___ 
 <div align="center"> <h2 align="center"> Apresentado na XXX Semana Acadêmica de Geologia (SEGEO) da UFRuralRJ </h2> </div>
 
 <div align="center">
@@ -71,9 +88,9 @@ O objetivo deste curso é apresentar a base necessária com conteúdo palpável 
 
 ## Como fazer o curso?
 
-O curso foi construído para que você execute tudo no Google Collab, porém, caso tenha alguma experiência em criar ambientes Python em sua máquina, não há problemas.
+Atualizado em Junho de 2023,  curso foi construído para que você execute tudo na  nuvem, direto pelo Binder - basta clicar no `launch binder`. Porém, caso tenha alguma experiência em criar ambientes Python em sua máquina, não há problemas.
 
-Para usar no Google Collab, baixe o repositório, e faça upload para seu Google Drive. Depois, clique nos arquivos `.ipynb` que então será redirecionado para o Google Collab.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rodreras/geopy_minicurso/HEAD)
 
 As células estão comentadas. Tem explicações sobre os tipos de dados, o que deve ser feito, tudo com exemplos e também exercícios - que vão do nível fácil até o difícil.
 
@@ -93,7 +110,7 @@ Você pode contribuir para esse projeto de algumas formas:
     - [Buy me a coffee](https://www.buymeacoffee.com/rodbrust)
 
 
-- Fazendo alterações e melhorando o código e o `README.md`
+- Fazendo alterações e melhorando o código ou `README.md`
 
 
 
