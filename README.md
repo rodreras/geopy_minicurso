@@ -7,7 +7,7 @@
 
 - Desenvolvido por [Rodrigo Brust Santos](https://www.linkedin.com/in/rodrigobrust/)
     - Contato: rodrigobrusts@gmail.com
-    - Versão 1.0 - Junho de 2023
+    - Versão 1.1 - Julho de 2024
 ______
 
 ## Descrição
@@ -67,6 +67,7 @@ ___
     3.4 Como fazer uma composição colorida
 
     3.5 Como exportar o raster
+
     
 ___ 
 <div align="center"> <h2 align="center"> Apresentado na XXX Semana Acadêmica de Geologia (SEGEO) da UFRuralRJ </h2> </div>
@@ -78,17 +79,12 @@ ___
 </p>
 
 
-|Data| Acesso|
-|:----:|:-------:|
-|05/11/2022| [Vídeo Aula Módulo Básico](https://www.youtube.com/watch?v=pMwEm_fXy_U)|
-|12/11/2022| [Vídeo Aula Workflow Geológgico](https://www.youtube.com/watch?v=b6s7xCIyapI)|
-
 </div>
 
 
 ## Como fazer o curso?
 
-Atualizado em Junho de 2023,  curso foi construído para que você execute tudo na  nuvem, direto pelo Binder - basta clicar no `launch binder`. Porém, caso tenha alguma experiência em criar ambientes Python em sua máquina, não há problemas.
+Atualizado em Julho de 2024,  curso foi construído para que você execute tudo na  nuvem, direto pelo Binder - basta clicar no `launch binder`. Porém, caso tenha alguma experiência em criar ambientes Python em sua máquina, não há problemas.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rodreras/geopy_minicurso/HEAD)
 
@@ -99,6 +95,7 @@ Faça no seu ritmo e quantas vezes quiser! Pesquise sobre as bibliotecas e se qu
 ## Referências
 
 - Kevin Alexander (2022). [Python para Geólogos](https://github.com/kevinalexandr19/manual-python-geologia)
+
 
 ## Contribua
 
